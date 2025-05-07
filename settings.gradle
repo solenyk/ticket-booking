@@ -2,3 +2,4 @@ rootProject.name = 'ticket-booking'
 
 include 'api-gateway'
 include 'service-discovery'
+include 'ticket-service'
